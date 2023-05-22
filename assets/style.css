@@ -224,7 +224,7 @@ li {
     .task-box{
       margin-top: 20px;
       margin-right: 5px;
-      padding: 0 15px 10px 20px;
+      padding: 0 15px 10px 0px;
     }
     .task label input{
       margin-top: 4px;
